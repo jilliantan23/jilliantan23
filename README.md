@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jilliantan23
 - 👀 I’m interested in Data Science, Project Management, UI/UX Design, and Web Development
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning how to Visualize Data with Python & Intro to UI and UX Design on Codecademy
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 You can reach me by sending an e-mail to jilliantan23@gmail.com
 - 📝 I've written code using the following languages: CSS3, HTML5, Java, JavaScript (very minimal), Python, SQL
